@@ -1,0 +1,667 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="rtk1.al" tvg-name="RTK 1" tvg-logo="[" ,RTK 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/7919
+#EXTINF:-1 tvg-id="rtv21.al" tvg-name="RTV 21" tvg-logo="" ,RTV 21
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1076
+#EXTINF:-1 tvg-id="ktv.al" tvg-name="KTV" tvg-logo="" ,KTV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1077
+#EXTINF:-1 tvg-id="klankosova.al" tvg-name="KLAN KOSOVA" tvg-logo="" ,KLAN KOSOVA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1078
+#EXTINF:-1 tvg-id="atv.al" tvg-name="A TV" tvg-logo="" ,A TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/7923
+#EXTINF:-1 tvg-id="tvdukagjini.al" tvg-name="DUKAGJINI" tvg-logo="[" ,DUKAGJINI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21189
+#EXTINF:-1 tvg-id="t7.al" tvg-name="T7" tvg-logo="[" ,T7
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/26629
+#EXTINF:-1 tvg-id="topchannel.al" tvg-name="TOP CHANNEL" tvg-logo="" ,TOP CHANNEL
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1050
+#EXTINF:-1 tvg-id="klan.al" tvg-name="KLAN HD" tvg-logo="" ,KLAN HD
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/15661
+#EXTINF:-1 tvg-id="kanal10.al" tvg-name="KANAL 10 " tvg-logo="" ,KANAL 10 
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/53673
+#EXTINF:-1 tvg-id="living.al" tvg-name="LIVING HD" tvg-logo="[" ,LIVING HD
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29791
+#EXTINF:-1 tvg-id="rtk2.al" tvg-name="RTK 2" tvg-logo="" ,RTK 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/7920
+#EXTINF:-1 tvg-id="rtk3.al" tvg-name="RTK 3" tvg-logo="" ,RTK 3
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/7921
+#EXTINF:-1 tvg-id="rtk4.al" tvg-name="RTK 4" tvg-logo="" ,RTK 4
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/7922
+#EXTINF:-1 tvg-id="rtsh1.al" tvg-name="RTSH 1" tvg-logo="[" ,RTSH 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29894
+#EXTINF:-1 tvg-id="rtsh2.al" tvg-name="RTSH 2" tvg-logo="[" ,RTSH 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29893
+#EXTINF:-1 tvg-id="rtsh3.al" tvg-name="RTSH 3" tvg-logo="[" ,RTSH 3
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29892
+#EXTINF:-1 tvg-id="rtv21mk.al" tvg-name="RTV 21 MK" tvg-logo="[" ,RTV 21 MK
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29860
+#EXTINF:-1 tvg-id="21plus.al" tvg-name="21 PLUS" tvg-logo="" ,21 PLUS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2138
+#EXTINF:-1 tvg-id="24kitchen.al" tvg-name="24 KITCHEN" tvg-logo="[" ,24 KITCHEN
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29792
+#EXTINF:-1 tvg-id="360tunebox.al" tvg-name="360 TUNE BOX" tvg-logo="[" ,360 TUNE BOX
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29820
+#EXTINF:-1 tvg-id="abcnews.al" tvg-name="ABC NEWS" tvg-logo="[" ,ABC NEWS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/26563
+#EXTINF:-1 tvg-id="albaction.al" tvg-name="ALB ACTION" tvg-logo="" ,ALB ACTION
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/7929
+#EXTINF:-1 tvg-id="albtvhits.al" tvg-name="ALB TV HITS" tvg-logo="[" ,ALB TV HITS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2136
+#EXTINF:-1 tvg-id="albhits.al" tvg-name="ALB HITS" tvg-logo="" ,ALB HITS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/7928
+#EXTINF:-1 tvg-id="albhumor1.al" tvg-name="ALB HUMOR 1" tvg-logo="" ,ALB HUMOR 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/7927
+#EXTINF:-1 tvg-id="albthriller.al" tvg-name="ALB THRILLER" tvg-logo="" ,ALB THRILLER
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/7926
+#EXTINF:-1 tvg-id="albmovie.al" tvg-name="ALB MOVIE" tvg-logo="" ,ALB MOVIE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/7925
+#EXTINF:-1 tvg-id="rtshfilm.al" tvg-name="RTSH FILM" tvg-logo="" ,RTSH FILM
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/7924
+#EXTINF:-1 tvg-id="albswiss.al" tvg-name="ALB-SWISS" tvg-logo="" ,ALB-SWISS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/54593
+#EXTINF:-1 tvg-id="albwestern.al" tvg-name="ALB WESTERN" tvg-logo="" ,ALB WESTERN
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/7930
+#EXTINF:-1 tvg-id="bbfmuzik.al" tvg-name="BBF MUZIK" tvg-logo="" ,BBF MUZIK
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2152
+#EXTINF:-1 tvg-id="alsatm.al" tvg-name="ALSAT M" tvg-logo="" ,ALSAT M
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1082
+#EXTINF:-1 tvg-id="animalplanet.al" tvg-name="ANIMAL PLANET" tvg-logo="[" ,ANIMAL PLANET
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29793
+#EXTINF:-1 tvg-id="antenatvshkoder.al" tvg-name="ANTENA TV SHKODER" tvg-logo="[" ,ANTENA TV SHKODER
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29895
+#EXTINF:-1 tvg-id="babytv.al" tvg-name="BABYTV" tvg-logo="[" ,BABYTV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29844
+#EXTINF:-1 tvg-id="bangbang.al" tvg-name="BANG BANG" tvg-logo="" ,BANG BANG
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1081
+#EXTINF:-1 tvg-id="bbf.al" tvg-name="BBF" tvg-logo="" ,BBF
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2135
+#EXTINF:-1 tvg-id="diasporatv.al" tvg-name="DIASPORA TV" tvg-logo="[" ,DIASPORA TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29869
+#EXTINF:-1 tvg-id="boomerang.al" tvg-name="BOOMERANG" tvg-logo="[" ,BOOMERANG
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29843
+#EXTINF:-1 tvg-id="channelone.al" tvg-name="CHANNEL ONE" tvg-logo="" ,CHANNEL ONE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2134
+#EXTINF:-1 tvg-id="citytv.al" tvg-name="CITY TV" tvg-logo="[" ,CITY TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2133
+#EXTINF:-1 tvg-id="cufo.al" tvg-name="CUFO" tvg-logo="" ,CUFO
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2160
+#EXTINF:-1 tvg-id="dasma.al" tvg-name="DASMA" tvg-logo="[" ,DASMA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2159
+#EXTINF:-1 tvg-id="dasmatv.al" tvg-name="DASMA TV" tvg-logo="[" ,DASMA TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29870
+#EXTINF:-1 tvg-id="diellitv.al" tvg-name="DIELLI TV" tvg-logo="[" ,DIELLI TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21190
+#EXTINF:-1 tvg-id="dokubox.al" tvg-name="DOKU BOX" tvg-logo="[" ,DOKU BOX
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29817
+#EXTINF:-1 tvg-id="episodetv.al" tvg-name="EPISODE TV" tvg-logo="" ,EPISODE TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/28944
+#EXTINF:-1 tvg-id="eurofilm.al" tvg-name="EURO FILM" tvg-logo="[" ,EURO FILM
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/20978
+#EXTINF:-1 tvg-id="eurosport1.al" tvg-name="EUROSPORT 1" tvg-logo="" ,EUROSPORT 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2116
+#EXTINF:-1 tvg-id="eurosport2.al" tvg-name="EUROSPORT 2" tvg-logo="[" ,EUROSPORT 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29796
+#EXTINF:-1 tvg-id="explorehistori.al" tvg-name="EXPLORE HISTORI" tvg-logo="[" ,EXPLORE HISTORI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/245
+#EXTINF:-1 tvg-id="explorenatyra.al" tvg-name="EXPLORE NATYRA" tvg-logo="[" ,EXPLORE NATYRA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/244
+#EXTINF:-1 tvg-id="exploreshkence.al" tvg-name="EXPLORE SHKENCE" tvg-logo="" ,EXPLORE SHKENCE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/243
+#EXTINF:-1 tvg-id="family.al" tvg-name="FAMILY" tvg-logo="[" ,FAMILY
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29818
+#EXTINF:-1 tvg-id="faxnews.al" tvg-name="FAX NEWS" tvg-logo="[" ,FAX NEWS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/26566
+#EXTINF:-1 tvg-id="fightbox.al" tvg-name="FIGHT BOX" tvg-logo="[" ,FIGHT BOX
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29821
+#EXTINF:-1 tvg-id="filmaksion.al" tvg-name="FILM AKSION" tvg-logo="" ,FILM AKSION
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/242
+#EXTINF:-1 tvg-id="filmautor.al" tvg-name="FILM AUTOR" tvg-logo="" ,FILM AUTOR
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/241
+#EXTINF:-1 tvg-id="filmboxarthouse.al" tvg-name="FILM BOX ARTHOUSE" tvg-logo="" ,FILM BOX ARTHOUSE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29825
+#EXTINF:-1 tvg-id="filmboxextra.al" tvg-name="FILM BOX EXTRA" tvg-logo="" ,FILM BOX EXTRA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29824
+#EXTINF:-1 tvg-id="filmboxplus.al" tvg-name="FILM BOX PLUS" tvg-logo="" ,FILM BOX PLUS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29823
+#EXTINF:-1 tvg-id="filmboxpremium.al" tvg-name="FILM BOX PREMIUM" tvg-logo="" ,FILM BOX PREMIUM
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29826
+#EXTINF:-1 tvg-id="filmdrama.al" tvg-name="FILM DRAMA" tvg-logo="" ,FILM DRAMA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/240
+#EXTINF:-1 tvg-id="filmdy.al" tvg-name="FILM DY" tvg-logo="[" ,FILM DY
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/239
+#EXTINF:-1 tvg-id="filmgold1.al" tvg-name="FILM GOLD 1" tvg-logo="[" ,FILM GOLD 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2151
+#EXTINF:-1 tvg-id="filmgold2.al" tvg-name="FILM GOLD 2" tvg-logo="[" ,FILM GOLD 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2150
+#EXTINF:-1 tvg-id="filmgold3.al" tvg-name="FILM GOLD 3" tvg-logo="[" ,FILM GOLD 3
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2149
+#EXTINF:-1 tvg-id="filmgold4.al" tvg-name="FILM GOLD 4" tvg-logo="[" ,FILM GOLD 4
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2148
+#EXTINF:-1 tvg-id="filmhits1.al" tvg-name="FILM HITS  1" tvg-logo="" ,FILM HITS  1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2158
+#EXTINF:-1 tvg-id="filmhits.al" tvg-name="FILM HITS" tvg-logo="[" ,FILM HITS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/238
+#EXTINF:-1 tvg-id="filmkomedi.al" tvg-name="FILM KOMEDI" tvg-logo="" ,FILM KOMEDI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/237
+#EXTINF:-1 tvg-id="filmnje.al" tvg-name="FILM NJE" tvg-logo="" ,FILM NJE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/236
+#EXTINF:-1 tvg-id="filmthriller.al" tvg-name="FILM THRILLER" tvg-logo="" ,FILM THRILLER
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/234
+#EXTINF:-1 tvg-id="firstkosova.al" tvg-name="FIRST KOSOVA" tvg-logo="[" ,FIRST KOSOVA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2147
+#EXTINF:-1 tvg-id="folk.al" tvg-name="FOLK" tvg-logo="" ,FOLK
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1080
+#EXTINF:-1 tvg-id="folkplus.al" tvg-name="FOLK PLUS" tvg-logo="[" ,FOLK PLUS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2131
+#EXTINF:-1 tvg-id="fox.al" tvg-name="FOX" tvg-logo="[" ,FOX
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21702
+#EXTINF:-1 tvg-id="foxcrime.al" tvg-name="FOX CRIME" tvg-logo="[" ,FOX CRIME
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21701
+#EXTINF:-1 tvg-id="foxlife.al" tvg-name="FOX LIFE" tvg-logo="[" ,FOX LIFE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21703
+#EXTINF:-1 tvg-id="foxmovies.al" tvg-name="FOX MOVIES" tvg-logo="[" ,FOX MOVIES
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2120
+#EXTINF:-1 tvg-id="gametoon.al" tvg-name="GAME TOON" tvg-logo="" ,GAME TOON
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29822
+#EXTINF:-1 tvg-id="hbo.al" tvg-name="HBO" tvg-logo="[" ,HBO
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21688
+#EXTINF:-1 tvg-id="hbo2.al" tvg-name="HBO 2" tvg-logo="[" ,HBO 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21687
+#EXTINF:-1 tvg-id="hbo3.al" tvg-name="HBO 3" tvg-logo="[" ,HBO 3
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21686
+#EXTINF:-1 tvg-id="islamchannel1.al" tvg-name="ISLAM CHANNEL 1" tvg-logo="" ,ISLAM CHANNEL 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/42921
+#EXTINF:-1 tvg-id="islamchannel2.al" tvg-name="ISLAM CHANNEL 2" tvg-logo="" ,ISLAM CHANNEL 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/42922
+#EXTINF:-1 tvg-id="islamchannel3.al" tvg-name="ISLAM CHANNEL 3" tvg-logo="" ,ISLAM CHANNEL 3
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/42923
+#EXTINF:-1 tvg-id="islamchannelfemije.al" tvg-name="ISLAM CHANNEL FEMIJE" tvg-logo="" ,ISLAM CHANNEL FEMIJE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/42925
+#EXTINF:-1 tvg-id="islamchannelquran.al" tvg-name="ISLAM CHANNEL QURAN" tvg-logo="" ,ISLAM CHANNEL QURAN
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/42924
+#EXTINF:-1 tvg-id="joly.al" tvg-name="JOLY" tvg-logo="" ,JOLY
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2129
+#EXTINF:-1 tvg-id="jugtv.al" tvg-name="JUG TV" tvg-logo="[" ,JUG TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2143
+#EXTINF:-1 tvg-id="juniortv.al" tvg-name="JUNIOR TV" tvg-logo="[" ,JUNIOR TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1079
+#EXTINF:-1 tvg-id="ksport1.al" tvg-name="K SPORT 1" tvg-logo="[" ,K SPORT 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2115
+#EXTINF:-1 tvg-id="ksport2.al" tvg-name="K SPORT 2" tvg-logo="[" ,K SPORT 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2114
+#EXTINF:-1 tvg-id="ksport3.al" tvg-name="K SPORT 3" tvg-logo="" ,K SPORT 3
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2113
+#EXTINF:-1 tvg-id="ksport4.al" tvg-name="K SPORT 4" tvg-logo="" ,K SPORT 4
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2112
+#EXTINF:-1 tvg-id="ksport5.al" tvg-name="K SPORT 5" tvg-logo="[" ,K SPORT 5
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29798
+#EXTINF:-1 tvg-id="kanalddrama.al" tvg-name="KANAL D DRAMA " tvg-logo="" ,KANAL D DRAMA 
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1143
+#EXTINF:-1 tvg-id="kanali7news.al" tvg-name="KANALI 7 NEWS" tvg-logo="[" ,KANALI 7 NEWS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/26565
+#EXTINF:-1 tvg-id="klanplus.al" tvg-name="KLAN PLUS" tvg-logo="[" ,KLAN PLUS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29897
+#EXTINF:-1 tvg-id="koshumor1.al" tvg-name="KOS HUMOR 1" tvg-logo="" ,KOS HUMOR 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29840
+#EXTINF:-1 tvg-id="kshits.al" tvg-name="KS HITS" tvg-logo="" ,KS HITS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29808
+#EXTINF:-1 tvg-id="kslol.al" tvg-name="KS LOL" tvg-logo="" ,KS LOL
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29807
+#EXTINF:-1 tvg-id="ksmuzik.al" tvg-name="KS MUZIK" tvg-logo="" ,KS MUZIK
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29806
+#EXTINF:-1 tvg-id="ktvtoksor.al" tvg-name="KTV TOKSOR" tvg-logo="[" ,KTV TOKSOR
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29898
+#EXTINF:-1 tvg-id="mtvkosova.al" tvg-name="MTV KOSOVA" tvg-logo="[" ,MTV KOSOVA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29864
+#EXTINF:-1 tvg-id="mymusic.al" tvg-name="MY MUSIC" tvg-logo="[" ,MY MUSIC
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2107
+#EXTINF:-1 tvg-id="nationalgeographic.al" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="[" ,NATIONAL GEOGRAPHIC
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2119
+#EXTINF:-1 tvg-id="news24.al" tvg-name="NEWS 24" tvg-logo="[" ,NEWS 24
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/26562
+#EXTINF:-1 tvg-id="ontv.al" tvg-name="ON TV" tvg-logo="[" ,ON TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29863
+#EXTINF:-1 tvg-id="oranews.al" tvg-name="ORA NEWS" tvg-logo="" ,ORA NEWS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2106
+#EXTINF:-1 tvg-id="peacetv.al" tvg-name="PEACE TV" tvg-logo="[" ,PEACE TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2105
+#EXTINF:-1 tvg-id="plus.al" tvg-name="PLUS" tvg-logo="" ,PLUS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2104
+#EXTINF:-1 tvg-id="redtv.al" tvg-name="RED TV" tvg-logo="" ,RED TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/28943
+#EXTINF:-1 tvg-id="reporttv.al" tvg-name="REPORT TV" tvg-logo="" ,REPORT TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/26567
+#EXTINF:-1 tvg-id="rrokum.al" tvg-name="RROKUM" tvg-logo="[" ,RROKUM
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29896
+#EXTINF:-1 tvg-id="rtk1fhd.al" tvg-name="RTK 1" tvg-logo="" ,RTK 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/50988
+#EXTINF:-1 tvg-id="rtsh24.al" tvg-name="RTSH 24" tvg-logo="[" ,RTSH 24
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29890
+#EXTINF:-1 tvg-id="rtshfemije.al" tvg-name="RTSH FEMIJE" tvg-logo="[" ,RTSH FEMIJE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29850
+#EXTINF:-1 tvg-id="rtshgjirokastra.al" tvg-name="RTSH GJIROKASTRA" tvg-logo="[" ,RTSH GJIROKASTRA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29889
+#EXTINF:-1 tvg-id="rtshkor�a.al" tvg-name="RTSH KORÇA" tvg-logo="[" ,RTSH KORÇA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29888
+#EXTINF:-1 tvg-id="rtshkuvend.al" tvg-name="RTSH KUVEND" tvg-logo="[" ,RTSH KUVEND
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29887
+#EXTINF:-1 tvg-id="rtshmuzike.al" tvg-name="RTSH MUZIKE" tvg-logo="[" ,RTSH MUZIKE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2103
+#EXTINF:-1 tvg-id="rtshsat.al" tvg-name="RTSH SAT" tvg-logo="[" ,RTSH SAT
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29886
+#EXTINF:-1 tvg-id="rtshshqip.al" tvg-name="RTSH SHQIP" tvg-logo="[" ,RTSH SHQIP
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29891
+#EXTINF:-1 tvg-id="rtshsport.al" tvg-name="RTSH SPORT" tvg-logo="" ,RTSH SPORT
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2102
+#EXTINF:-1 tvg-id="rtv21junior.al" tvg-name="RTV 21 JUNIOR" tvg-logo="[" ,RTV 21 JUNIOR
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29846
+#EXTINF:-1 tvg-id="rtv21maqedoni.al" tvg-name="RTV 21 MAQEDONI" tvg-logo="" ,RTV 21 MAQEDONI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2146
+#EXTINF:-1 tvg-id="rtv21newbiz.al" tvg-name="RTV 21 NEWBIZ" tvg-logo="[" ,RTV 21 NEWBIZ
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29899
+#EXTINF:-1 tvg-id="rtv21plus.al" tvg-name="RTV 21 PLUS " tvg-logo="[" ,RTV 21 PLUS 
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29862
+#EXTINF:-1 tvg-id="rtv21popullore.al" tvg-name="RTV 21 POPULLORE" tvg-logo="" ,RTV 21 POPULLORE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1083
+#EXTINF:-1 tvg-id="rtvaldi.al" tvg-name="RTV ALDI" tvg-logo="[" ,RTV ALDI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29878
+#EXTINF:-1 tvg-id="rtvfontana.al" tvg-name="RTV FONTANA" tvg-logo="" ,RTV FONTANA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/34833
+#EXTINF:-1 tvg-id="rtvilerida.al" tvg-name="RTV ILERIDA" tvg-logo="[" ,RTV ILERIDA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29877
+#EXTINF:-1 tvg-id="rtvpendimi.al" tvg-name="RTV PENDIMI" tvg-logo="" ,RTV PENDIMI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29861
+#EXTINF:-1 tvg-id="skyaksion.al" tvg-name="SKY AKSION" tvg-logo="" ,SKY AKSION
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/3582
+#EXTINF:-1 tvg-id="skycomedy.al" tvg-name="SKY COMEDY" tvg-logo="[" ,SKY COMEDY
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/3581
+#EXTINF:-1 tvg-id="skydrama.al" tvg-name="SKY DRAMA" tvg-logo="" ,SKY DRAMA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/3578
+#EXTINF:-1 tvg-id="skyhistory.al" tvg-name="SKY HISTORY" tvg-logo="" ,SKY HISTORY
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/3580
+#EXTINF:-1 tvg-id="skymax.al" tvg-name="SKY MAX" tvg-logo="" ,SKY MAX
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/3579
+#EXTINF:-1 tvg-id="skynovela.al" tvg-name="SKY NOVELA" tvg-logo="" ,SKY NOVELA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/3576
+#EXTINF:-1 tvg-id="skyplanet.al" tvg-name="SKY PLANET" tvg-logo="[" ,SKY PLANET
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/3577
+#EXTINF:-1 tvg-id="smile.al" tvg-name="SMILE" tvg-logo="" ,SMILE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1075
+#EXTINF:-1 tvg-id="sofia.al" tvg-name="SOFIA" tvg-logo="[" ,SOFIA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29848
+#EXTINF:-1 tvg-id="supersportnews.al" tvg-name="SUPER SPORT NEWS" tvg-logo="" ,SUPER SPORT NEWS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/224
+#EXTINF:-1 tvg-id="sportkosovanews.al" tvg-name="SPORT KOSOVA NEWS" tvg-logo="[" ,SPORT KOSOVA NEWS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/19812
+#EXTINF:-1 tvg-id="supersport1.al" tvg-name="SUPER SPORT 1 " tvg-logo="" ,SUPER SPORT 1 
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/80227
+#EXTINF:-1 tvg-id="supersport2.al" tvg-name="SUPER SPORT 2 " tvg-logo="" ,SUPER SPORT 2 
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/80228
+#EXTINF:-1 tvg-id="supersport2.al" tvg-name="SUPER SPORT 2" tvg-logo="" ,SUPER SPORT 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/223
+#EXTINF:-1 tvg-id="supersport3.al" tvg-name="SUPER SPORT 3 " tvg-logo="" ,SUPER SPORT 3 
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/80229
+#EXTINF:-1 tvg-id="supersport3.al" tvg-name="SUPER SPORT 3" tvg-logo="[" ,SUPER SPORT 3
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/222
+#EXTINF:-1 tvg-id="supersport4.al" tvg-name="SUPER SPORT 4 " tvg-logo="" ,SUPER SPORT 4 
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/80230
+#EXTINF:-1 tvg-id="supersport4.al" tvg-name="SUPER SPORT 4" tvg-logo="" ,SUPER SPORT 4
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/221
+#EXTINF:-1 tvg-id="supersport5.al" tvg-name="SUPER SPORT 5 " tvg-logo="" ,SUPER SPORT 5 
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/80232
+#EXTINF:-1 tvg-id="supersport5.al" tvg-name="SUPER SPORT 5" tvg-logo="" ,SUPER SPORT 5
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/19809
+#EXTINF:-1 tvg-id="supersport6.al" tvg-name="SUPER SPORT 6 " tvg-logo="" ,SUPER SPORT 6 
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/80233
+#EXTINF:-1 tvg-id="supersport6.al" tvg-name="SUPER SPORT 6" tvg-logo="" ,SUPER SPORT 6
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/19810
+#EXTINF:-1 tvg-id="supersport7.al" tvg-name="SUPER SPORT 7" tvg-logo="[" ,SUPER SPORT 7
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29797
+#EXTINF:-1 tvg-id="sportkosova1.al" tvg-name="SPORT KOSOVA 1" tvg-logo="[" ,SPORT KOSOVA 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/226
+#EXTINF:-1 tvg-id="sportkosova2.al" tvg-name="SPORT KOSOVA 2" tvg-logo="" ,SPORT KOSOVA 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/225
+#EXTINF:-1 tvg-id="star+shkodra.al" tvg-name="STAR+ SHKODRA" tvg-logo="[" ,STAR+ SHKODRA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2124
+#EXTINF:-1 tvg-id="stupcat.al" tvg-name="STUPCAT" tvg-logo="[" ,STUPCAT
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/20960
+#EXTINF:-1 tvg-id="superfolk.al" tvg-name="SUPER FOLK" tvg-logo="[" ,SUPER FOLK
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2142
+#EXTINF:-1 tvg-id="supersonic.al" tvg-name="SUPERSONIC" tvg-logo="[" ,SUPERSONIC
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2118
+#EXTINF:-1 tvg-id="t.al" tvg-name="T" tvg-logo="" ,T
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1074
+#EXTINF:-1 tvg-id="tdc.al" tvg-name="TDC" tvg-logo="" ,TDC
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29827
+#EXTINF:-1 tvg-id="tematv.al" tvg-name="TEMA TV" tvg-logo="" ,TEMA TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/36015
+#EXTINF:-1 tvg-id="tiptv.al" tvg-name="TIP TV" tvg-logo="[" ,TIP TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29847
+#EXTINF:-1 tvg-id="tiranatv.al" tvg-name="TIRANA TV" tvg-logo="[" ,TIRANA TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29859
+#EXTINF:-1 tvg-id="tntalbania.al" tvg-name="TNT ALBANIA" tvg-logo="[" ,TNT ALBANIA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29858
+#EXTINF:-1 tvg-id="topestrada.al" tvg-name="TOP ESTRADA" tvg-logo="[" ,TOP ESTRADA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29868
+#EXTINF:-1 tvg-id="topnews.al" tvg-name="TOP NEWS" tvg-logo="[" ,TOP NEWS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/26561
+#EXTINF:-1 tvg-id="tring3+.al" tvg-name="TRING 3+" tvg-logo="" ,TRING 3+
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1052
+#EXTINF:-1 tvg-id="tringcomedy.al" tvg-name="TRING COMEDY" tvg-logo="" ,TRING COMEDY
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/219
+#EXTINF:-1 tvg-id="tringfantasy.al" tvg-name="TRING FANTASY" tvg-logo="" ,TRING FANTASY
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/218
+#EXTINF:-1 tvg-id="tringaction.al" tvg-name="TRING ACTION" tvg-logo="" ,TRING ACTION
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29833
+#EXTINF:-1 tvg-id="tringhistori.al" tvg-name="TRING HISTORI" tvg-logo="" ,TRING HISTORI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2157
+#EXTINF:-1 tvg-id="tringinternational.al" tvg-name="TRING INTERNATIONAL" tvg-logo="" ,TRING INTERNATIONAL
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29832
+#EXTINF:-1 tvg-id="tringkids.al" tvg-name="TRING KIDS" tvg-logo="[" ,TRING KIDS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29851
+#EXTINF:-1 tvg-id="tringlife.al" tvg-name="TRING LIFE" tvg-logo="" ,TRING LIFE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/217
+#EXTINF:-1 tvg-id="tringmax.al" tvg-name="TRING MAX" tvg-logo="" ,TRING MAX
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/216
+#EXTINF:-1 tvg-id="tringmuse.al" tvg-name="TRING MUSE" tvg-logo="[" ,TRING MUSE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2117
+#EXTINF:-1 tvg-id="tringplanet.al" tvg-name="TRING PLANET" tvg-logo="[" ,TRING PLANET
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/215
+#EXTINF:-1 tvg-id="tringshqip.al" tvg-name="TRING SHQIP" tvg-logo="" ,TRING SHQIP
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/214
+#EXTINF:-1 tvg-id="tringsport1.al" tvg-name="TRING SPORT 1" tvg-logo="" ,TRING SPORT 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2156
+#EXTINF:-1 tvg-id="tringsport1.al" tvg-name="TRING SPORT 1" tvg-logo="" ,TRING SPORT 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/213
+#EXTINF:-1 tvg-id="tringsport2.al" tvg-name="TRING SPORT 2" tvg-logo="" ,TRING SPORT 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2155
+#EXTINF:-1 tvg-id="tringsport3.al" tvg-name="TRING SPORT 3" tvg-logo="" ,TRING SPORT 3
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2154
+#EXTINF:-1 tvg-id="tringsport4.al" tvg-name="TRING SPORT 4" tvg-logo="" ,TRING SPORT 4
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2153
+#EXTINF:-1 tvg-id="tringsportnews.al" tvg-name="TRING SPORT NEWS" tvg-logo="" ,TRING SPORT NEWS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/212
+#EXTINF:-1 tvg-id="tringsuper.al" tvg-name="TRING SUPER" tvg-logo="" ,TRING SUPER
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/211
+#EXTINF:-1 tvg-id="tringtring.al" tvg-name="TRING TRING" tvg-logo="" ,TRING TRING
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/210
+#EXTINF:-1 tvg-id="tringworld.al" tvg-name="TRING WORLD" tvg-logo="" ,TRING WORLD
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/209
+#EXTINF:-1 tvg-id="turbochannel.al" tvg-name="TURBO CHANNEL" tvg-logo="[" ,TURBO CHANNEL
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29857
+#EXTINF:-1 tvg-id="tvdibra.al" tvg-name="TV DIBRA" tvg-logo="[" ,TV DIBRA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29873
+#EXTINF:-1 tvg-id="tvkoha.al" tvg-name="TV KOHA" tvg-logo="[" ,TV KOHA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2141
+#EXTINF:-1 tvg-id="tvkopliku.al" tvg-name="TV KOPLIKU" tvg-logo="[" ,TV KOPLIKU
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29885
+#EXTINF:-1 tvg-id="tvliria.al" tvg-name="TV LIRIA" tvg-logo="" ,TV LIRIA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/36014
+#EXTINF:-1 tvg-id="tvmitrovica.al" tvg-name="TV MITROVICA" tvg-logo="" ,TV MITROVICA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/41953
+#EXTINF:-1 tvg-id="tvuksana.al" tvg-name="TV UKSANA" tvg-logo="" ,TV UKSANA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29879
+#EXTINF:-1 tvg-id="tvvali.al" tvg-name="TV VALI" tvg-logo="[" ,TV VALI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29875
+#EXTINF:-1 tvg-id="tvsh.al" tvg-name="TVSH" tvg-logo="" ,TVSH
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2139
+#EXTINF:-1 tvg-id="utv.al" tvg-name="UTV" tvg-logo="[" ,UTV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29872
+#EXTINF:-1 tvg-id="vizionplus.al" tvg-name="VIZION PLUS" tvg-logo="[" ,VIZION PLUS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1051
+#EXTINF:-1 tvg-id="vizionitv.al" tvg-name="VIZIONI TV" tvg-logo="[" ,VIZIONI TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29855
+#EXTINF:-1 tvg-id="zjarrtv.al" tvg-name="ZJARR TV" tvg-logo="[" ,ZJARR TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29854
+#EXTINF:-1 tvg-id="artdoku1.al" tvg-name="ART DOKU 1" tvg-logo="[" ,ART DOKU 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29838
+#EXTINF:-1 tvg-id="artdoku2.al" tvg-name="ART DOKU 2" tvg-logo="[" ,ART DOKU 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29837
+#EXTINF:-1 tvg-id="artkino1.al" tvg-name="ART KINO 1" tvg-logo="[" ,ART KINO 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29836
+#EXTINF:-1 tvg-id="artkino2.al" tvg-name="ART KINO 2" tvg-logo="[" ,ART KINO 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29835
+#EXTINF:-1 tvg-id="artkino3.al" tvg-name="ART KINO 3" tvg-logo="[" ,ART KINO 3
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29834
+#EXTINF:-1 tvg-id="artsport1.al" tvg-name="ART SPORT 1 " tvg-logo="[" ,ART SPORT 1 
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29801
+#EXTINF:-1 tvg-id="artsport2.al" tvg-name="ART SPORT 2 " tvg-logo="[" ,ART SPORT 2 
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29800
+#EXTINF:-1 tvg-id="artsport3.al" tvg-name="ART SPORT 3 " tvg-logo="[" ,ART SPORT 3 
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29799
+#EXTINF:-1 tvg-id="teleone1.al" tvg-name="TELE ONE 1" tvg-logo="" ,TELE ONE 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/42913
+#EXTINF:-1 tvg-id="teleone2.al" tvg-name="TELE ONE 2" tvg-logo="" ,TELE ONE 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/42914
+#EXTINF:-1 tvg-id="teleone3.al" tvg-name="TELE ONE 3" tvg-logo="" ,TELE ONE 3
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/42915
+#EXTINF:-1 tvg-id="teleone4.al" tvg-name="TELE ONE 4" tvg-logo="" ,TELE ONE 4
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/42916
+#EXTINF:-1 tvg-id="teleone5.al" tvg-name="TELE ONE 5" tvg-logo="" ,TELE ONE 5
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/42917
+#EXTINF:-1 tvg-id="teleone6.al" tvg-name="TELE ONE 6" tvg-logo="" ,TELE ONE 6
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/42918
+#EXTINF:-1 tvg-id="teleoneaksion.al" tvg-name="TELE ONE AKSION" tvg-logo="" ,TELE ONE AKSION
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66133
+#EXTINF:-1 tvg-id="teleonecrime.al" tvg-name="TELE ONE CRIME" tvg-logo="" ,TELE ONE CRIME
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66134
+#EXTINF:-1 tvg-id="teleonedrama.al" tvg-name="TELE ONE DRAMA" tvg-logo="" ,TELE ONE DRAMA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66135
+#EXTINF:-1 tvg-id="teleoneepik.al" tvg-name="TELE ONE EPIK" tvg-logo="" ,TELE ONE EPIK
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66136
+#EXTINF:-1 tvg-id="teleonefantazi.al" tvg-name="TELE ONE FANTAZI" tvg-logo="" ,TELE ONE FANTAZI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66137
+#EXTINF:-1 tvg-id="teleoneepic.al" tvg-name="TELE ONE EPIC " tvg-logo="" ,TELE ONE EPIC 
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66141
+#EXTINF:-1 tvg-id="teleonethriller.al" tvg-name="TELE ONE THRILLER" tvg-logo="" ,TELE ONE THRILLER
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66140
+#EXTINF:-1 tvg-id="teleonemuzikhits.al" tvg-name="TELE ONE MUZIK HITS" tvg-logo="" ,TELE ONE MUZIK HITS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66139
+#EXTINF:-1 tvg-id="teleonegoldcollection.al" tvg-name="TELE ONE GOLD COLLECTION" tvg-logo="" ,TELE ONE GOLD COLLECTION
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66138
+#EXTINF:-1 tvg-id="filma24animuar.al" tvg-name="FILMA24 ANIMUAR  " tvg-logo="" ,FILMA24 ANIMUAR  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82687
+#EXTINF:-1 tvg-id="filma24aventur.al" tvg-name="FILMA24 AVENTUR  " tvg-logo="" ,FILMA24 AVENTUR  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82686
+#EXTINF:-1 tvg-id="filma24biografi.al" tvg-name="FILMA24 BIOGRAFI  " tvg-logo="" ,FILMA24 BIOGRAFI  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82685
+#EXTINF:-1 tvg-id="filma24drama.al" tvg-name="FILMA24 DRAMA  " tvg-logo="" ,FILMA24 DRAMA  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82684
+#EXTINF:-1 tvg-id="filma24familjar.al" tvg-name="FILMA24 FAMILJAR  " tvg-logo="" ,FILMA24 FAMILJAR  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82683
+#EXTINF:-1 tvg-id="filma24fantasy.al" tvg-name="FILMA24 FANTASY  " tvg-logo="" ,FILMA24 FANTASY  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82682
+#EXTINF:-1 tvg-id="filma24histori.al" tvg-name="FILMA24 HISTORI  " tvg-logo="" ,FILMA24 HISTORI  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82681
+#EXTINF:-1 tvg-id="filma24komedi.al" tvg-name="FILMA24 KOMEDI  " tvg-logo="" ,FILMA24 KOMEDI  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82680
+#EXTINF:-1 tvg-id="filma24krim.al" tvg-name="FILMA24 KRIM  " tvg-logo="" ,FILMA24 KRIM  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82679
+#EXTINF:-1 tvg-id="filma24mister.al" tvg-name="FILMA24 MISTER  " tvg-logo="" ,FILMA24 MISTER  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82678
+#EXTINF:-1 tvg-id="filma24netflix.al" tvg-name="FILMA24 NETFLIX  " tvg-logo="" ,FILMA24 NETFLIX  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82677
+#EXTINF:-1 tvg-id="filma24netflix24.al" tvg-name="FILMA24 NETFLIX 24  " tvg-logo="" ,FILMA24 NETFLIX 24  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82676
+#EXTINF:-1 tvg-id="filma24romance.al" tvg-name="FILMA24 ROMANCE  " tvg-logo="" ,FILMA24 ROMANCE  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82675
+#EXTINF:-1 tvg-id="filma24thriller.al" tvg-name="FILMA24 THRILLER  " tvg-logo="" ,FILMA24 THRILLER  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82674
+#EXTINF:-1 tvg-id="filma24action.al" tvg-name="FILMA24 ACTION  " tvg-logo="" ,FILMA24 ACTION  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82673
+#EXTINF:-1 tvg-id="qpremium1.al" tvg-name="Q PREMIUM 1  " tvg-logo="" ,Q PREMIUM 1  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82669
+#EXTINF:-1 tvg-id="qpremium2.al" tvg-name="Q PREMIUM 2  " tvg-logo="" ,Q PREMIUM 2  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82670
+#EXTINF:-1 tvg-id="qpremium3.al" tvg-name="Q PREMIUM 3  " tvg-logo="" ,Q PREMIUM 3  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82671
+#EXTINF:-1 tvg-id="qpremium4.al" tvg-name="Q PREMIUM 4  " tvg-logo="" ,Q PREMIUM 4  
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82672
+#EXTINF:-1 tvg-id="xdark.al" tvg-name="X DARK" tvg-logo="" ,X DARK
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/82572
+#EXTINF:-1 tvg-id="xaction.al" tvg-name="X ACTION" tvg-logo="[" ,X ACTION
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21692
+#EXTINF:-1 tvg-id="xcifteli.al" tvg-name="X CIFTELI" tvg-logo="[" ,X CIFTELI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29831
+#EXTINF:-1 tvg-id="xcomedy.al" tvg-name="X COMEDY" tvg-logo="[" ,X COMEDY
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21693
+#EXTINF:-1 tvg-id="xdrama.al" tvg-name="X DRAMA" tvg-logo="[" ,X DRAMA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21690
+#EXTINF:-1 tvg-id="xfamily.al" tvg-name="X FAMILY" tvg-logo="[" ,X FAMILY
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21691
+#EXTINF:-1 tvg-id="xfilma24.al" tvg-name="X FILMA24" tvg-logo="[" ,X FILMA24
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29819
+#EXTINF:-1 tvg-id="xgold1.al" tvg-name="X GOLD 1" tvg-logo="[" ,X GOLD 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29813
+#EXTINF:-1 tvg-id="xgold2.al" tvg-name="X GOLD 2" tvg-logo="[" ,X GOLD 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29812
+#EXTINF:-1 tvg-id="xgold3.al" tvg-name="X GOLD 3" tvg-logo="[" ,X GOLD 3
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29811
+#EXTINF:-1 tvg-id="xgold4.al" tvg-name="X GOLD 4" tvg-logo="[" ,X GOLD 4
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29810
+#EXTINF:-1 tvg-id="xpremium1.al" tvg-name="X PREMIUM 1" tvg-logo="[" ,X PREMIUM 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/232
+#EXTINF:-1 tvg-id="xpremium2.al" tvg-name="X PREMIUM 2" tvg-logo="[" ,X PREMIUM 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21700
+#EXTINF:-1 tvg-id="xpremium3.al" tvg-name="X PREMIUM 3" tvg-logo="[" ,X PREMIUM 3
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21699
+#EXTINF:-1 tvg-id="xpremium4.al" tvg-name="X PREMIUM 4" tvg-logo="[" ,X PREMIUM 4
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21698
+#EXTINF:-1 tvg-id="xhistori.al" tvg-name="X HISTORI" tvg-logo="[" ,X HISTORI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29842
+#EXTINF:-1 tvg-id="xhumor.al" tvg-name="X HUMOR" tvg-logo="[" ,X HUMOR
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29839
+#EXTINF:-1 tvg-id="xkids.al" tvg-name="X KIDS" tvg-logo="[" ,X KIDS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29849
+#EXTINF:-1 tvg-id="xmusichits.al" tvg-name="X MUSIC HITS" tvg-logo="[" ,X MUSIC HITS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29830
+#EXTINF:-1 tvg-id="xnatyra.al" tvg-name="X NATYRA" tvg-logo="[" ,X NATYRA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29841
+#EXTINF:-1 tvg-id="xpopullore.al" tvg-name="X POPULLORE" tvg-logo="[" ,X POPULLORE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29829
+#EXTINF:-1 tvg-id="xromance.al" tvg-name="X ROMANCE" tvg-logo="[" ,X ROMANCE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21694
+#EXTINF:-1 tvg-id="xscyfy.al" tvg-name="X SCYFY" tvg-logo="[" ,X SCYFY
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/230
+#EXTINF:-1 tvg-id="xshkenca.al" tvg-name="X SHKENCA" tvg-logo="[" ,X SHKENCA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21696
+#EXTINF:-1 tvg-id="xthriller.al" tvg-name="X THRILLER" tvg-logo="[" ,X THRILLER
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21697
+#EXTINF:-1 tvg-id="xwestern.al" tvg-name="X WESTERN" tvg-logo="[" ,X WESTERN
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29828
+#EXTINF:-1 tvg-id="8ovaaction.al" tvg-name="8OVA ACTION" tvg-logo="" ,8OVA ACTION
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66080
+#EXTINF:-1 tvg-id="8ovabbf.al" tvg-name="8OVA BBF" tvg-logo="" ,8OVA BBF
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66081
+#EXTINF:-1 tvg-id="8ovadrame.al" tvg-name="8OVA DRAME" tvg-logo="" ,8OVA DRAME
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66082
+#EXTINF:-1 tvg-id="8ovegjurmeshqipetaretv.al" tvg-name="8OVE GJURME SHQIPETARE TV" tvg-logo="" ,8OVE GJURME SHQIPETARE TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66083
+#EXTINF:-1 tvg-id="8ovagjurmeshqiptare.al" tvg-name="8OVA GJURME SHQIPTARE" tvg-logo="" ,8OVA GJURME SHQIPTARE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66084
+#EXTINF:-1 tvg-id="8ovahumor.al" tvg-name="8OVA HUMOR" tvg-logo="" ,8OVA HUMOR
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66085
+#EXTINF:-1 tvg-id="8ovailahi.al" tvg-name="8OVA ILAHI" tvg-logo="" ,8OVA ILAHI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66086
+#EXTINF:-1 tvg-id="8ovaislam.al" tvg-name="8OVA ISLAM" tvg-logo="" ,8OVA ISLAM
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66087
+#EXTINF:-1 tvg-id="8ovakomedi.al" tvg-name="8OVA KOMEDI" tvg-logo="" ,8OVA KOMEDI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66088
+#EXTINF:-1 tvg-id="8ovamuzik.al" tvg-name="8OVA MUZIK" tvg-logo="" ,8OVA MUZIK
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66089
+#EXTINF:-1 tvg-id="8ova�ifteli.al" tvg-name="8OVA ÇIFTELI" tvg-logo="" ,8OVA ÇIFTELI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66092
+#EXTINF:-1 tvg-id="8ovapopullore.al" tvg-name="8OVA POPULLORE" tvg-logo="" ,8OVA POPULLORE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66090
+#EXTINF:-1 tvg-id="8ovamashaandbear.al" tvg-name="8OVA MASHA & BEAR" tvg-logo="" ,8OVA MASHA & BEAR
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66130
+#EXTINF:-1 tvg-id="8ovamashadheariu.al" tvg-name="8OVA MASHA DHE ARIU" tvg-logo="" ,8OVA MASHA DHE ARIU
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66131
+#EXTINF:-1 tvg-id="8ovamashaeorso.al" tvg-name="8OVA MASHA E ORSO DE" tvg-logo="" ,8OVA MASHA E ORSO DE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66132
+#EXTINF:-1 tvg-id="8ovathriller.al" tvg-name="8OVA THRILLER" tvg-logo="" ,8OVA THRILLER
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66091
+#EXTINF:-1 tvg-id="divergent1.al" tvg-name="DIVERGENT 1" tvg-logo="" ,DIVERGENT 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66093
+#EXTINF:-1 tvg-id="divergent2.al" tvg-name="DIVERGENT 2" tvg-logo="" ,DIVERGENT 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66094
+#EXTINF:-1 tvg-id="divergent3.al" tvg-name="DIVERGENT 3" tvg-logo="" ,DIVERGENT 3
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66095
+#EXTINF:-1 tvg-id="divergentbeats.al" tvg-name="DIVERGENT BEATS" tvg-logo="" ,DIVERGENT BEATS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66096
+#EXTINF:-1 tvg-id="divergentclass.al" tvg-name="DIVERGENT CLASS" tvg-logo="" ,DIVERGENT CLASS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66097
+#EXTINF:-1 tvg-id="divergentcore.al" tvg-name="DIVERGENT CORE" tvg-logo="" ,DIVERGENT CORE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66098
+#EXTINF:-1 tvg-id="divergentgold.al" tvg-name="DIVERGENT GOLD" tvg-logo="" ,DIVERGENT GOLD
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66099
+#EXTINF:-1 tvg-id="divergenthappy.al" tvg-name="DIVERGENT HAPPY" tvg-logo="" ,DIVERGENT HAPPY
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66100
+#EXTINF:-1 tvg-id="divergentpremier.al" tvg-name="DIVERGENT PREMIER" tvg-logo="" ,DIVERGENT PREMIER
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66101
+#EXTINF:-1 tvg-id="divergentwall.al" tvg-name="DIVERGENT WALL" tvg-logo="" ,DIVERGENT WALL
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66102
+#EXTINF:-1 tvg-id="firstdram�.al" tvg-name="FIRST DRAMë" tvg-logo="" ,FIRST DRAMë
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66104
+#EXTINF:-1 tvg-id="firstclassic.al" tvg-name="FIRST CLASSIC" tvg-logo="" ,FIRST CLASSIC
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66103
+#EXTINF:-1 tvg-id="firsthorror.al" tvg-name="FIRST HORROR" tvg-logo="" ,FIRST HORROR
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66105
+#EXTINF:-1 tvg-id="kinema1.al" tvg-name="KINEMA 1" tvg-logo="" ,KINEMA 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66106
+#EXTINF:-1 tvg-id="kinema17n.al" tvg-name="KINEMA 17 N" tvg-logo="" ,KINEMA 17 N
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66107
+#EXTINF:-1 tvg-id="kinemaagimi.al" tvg-name="KINEMA AGIMI" tvg-logo="" ,KINEMA AGIMI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66108
+#EXTINF:-1 tvg-id="kinemaaksion.al" tvg-name="KINEMA AKSION" tvg-logo="" ,KINEMA AKSION
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66109
+#EXTINF:-1 tvg-id="kinemaaksionmax.al" tvg-name="KINEMA AKSION MAX" tvg-logo="" ,KINEMA AKSION MAX
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66110
+#EXTINF:-1 tvg-id="kinemadajti.al" tvg-name="KINEMA DAJTI" tvg-logo="" ,KINEMA DAJTI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66111
+#EXTINF:-1 tvg-id="kinemafantasy.al" tvg-name="KINEMA FANTASY" tvg-logo="" ,KINEMA FANTASY
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66112
+#EXTINF:-1 tvg-id="kinemapartizani.al" tvg-name="KINEMA PARTIZANI" tvg-logo="" ,KINEMA PARTIZANI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66113
+#EXTINF:-1 tvg-id="kinemarepublika.al" tvg-name="KINEMA REPUBLIKA" tvg-logo="" ,KINEMA REPUBLIKA
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66114
+#EXTINF:-1 tvg-id="kinema241.al" tvg-name="KINEMA24 1" tvg-logo="" ,KINEMA24 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66115
+#EXTINF:-1 tvg-id="kinema242.al" tvg-name="KINEMA24 2" tvg-logo="" ,KINEMA24 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66116
+#EXTINF:-1 tvg-id="kinema243.al" tvg-name="KINEMA24 3" tvg-logo="" ,KINEMA24 3
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66117
+#EXTINF:-1 tvg-id="kinema244.al" tvg-name="KINEMA24 4" tvg-logo="" ,KINEMA24 4
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66118
+#EXTINF:-1 tvg-id="kinema245.al" tvg-name="KINEMA24 5" tvg-logo="" ,KINEMA24 5
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66119
+#EXTINF:-1 tvg-id="kinema246.al" tvg-name="KINEMA24 6" tvg-logo="" ,KINEMA24 6
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66120
+#EXTINF:-1 tvg-id="liontvgold1.al" tvg-name="LIONTV GOLD 1" tvg-logo="" ,LIONTV GOLD 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66121
+#EXTINF:-1 tvg-id="liontvgold2.al" tvg-name="LIONTV GOLD 2" tvg-logo="" ,LIONTV GOLD 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66122
+#EXTINF:-1 tvg-id="liontvgold3.al" tvg-name="LIONTV GOLD 3" tvg-logo="" ,LIONTV GOLD 3
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66123
+#EXTINF:-1 tvg-id="liontvshqip.al" tvg-name="LIONTV SHQIP" tvg-logo="" ,LIONTV SHQIP
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66124
+#EXTINF:-1 tvg-id="luginaislam.al" tvg-name="LUGINA ISLAM" tvg-logo="" ,LUGINA ISLAM
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66125
+#EXTINF:-1 tvg-id="luginaislam2.al" tvg-name="LUGINA ISLAM 2" tvg-logo="" ,LUGINA ISLAM 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66126
+#EXTINF:-1 tvg-id="luginakino.al" tvg-name="LUGINA KINO" tvg-logo="" ,LUGINA KINO
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66127
+#EXTINF:-1 tvg-id="luginapopullore.al" tvg-name="LUGINA POPULLORE" tvg-logo="" ,LUGINA POPULLORE
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66128
+#EXTINF:-1 tvg-id="luginaprank.al" tvg-name="LUGINA PRANK" tvg-logo="" ,LUGINA PRANK
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66129
+#EXTINF:-1 tvg-id="plisitv.al" tvg-name="PLISI TV" tvg-logo="" ,PLISI TV
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66145
+#EXTINF:-1 tvg-id="plisi�ifteli.al" tvg-name="PLISI ÇIFTELI" tvg-logo="" ,PLISI ÇIFTELI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66146
+#EXTINF:-1 tvg-id="plisifantazi.al" tvg-name="PLISI FANTAZI" tvg-logo="" ,PLISI FANTAZI
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66144
+#EXTINF:-1 tvg-id="plisifantasy.al" tvg-name="PLISI FANTASY" tvg-logo="" ,PLISI FANTASY
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66143
+#EXTINF:-1 tvg-id="plisiaction.al" tvg-name="PLISI ACTION" tvg-logo="" ,PLISI ACTION
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66142
