@@ -123,14 +123,6 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29823
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29826
 #EXTINF:-1 tvg-id="filmdrama.al" tvg-name="FILM DRAMA" tvg-logo="" ,FILM DRAMA
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/240
-#EXTINF:-1 tvg-id="filmgold1.al" tvg-name="FILM GOLD 1" tvg-logo="[" ,FILM GOLD 1
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2151
-#EXTINF:-1 tvg-id="filmgold2.al" tvg-name="FILM GOLD 2" tvg-logo="[" ,FILM GOLD 2
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2150
-#EXTINF:-1 tvg-id="filmgold3.al" tvg-name="FILM GOLD 3" tvg-logo="[" ,FILM GOLD 3
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2149
-#EXTINF:-1 tvg-id="filmgold4.al" tvg-name="FILM GOLD 4" tvg-logo="[" ,FILM GOLD 4
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2148
 #EXTINF:-1 tvg-id="filmhits1.al" tvg-name="FILM HITS  1" tvg-logo="" ,FILM HITS  1
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2158
 #EXTINF:-1 tvg-id="filmhits.al" tvg-name="FILM HITS" tvg-logo="[" ,FILM HITS
@@ -143,6 +135,14 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/236
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/239
 #EXTINF:-1 tvg-id="filmthriller.al" tvg-name="FILM THRILLER" tvg-logo="" ,FILM THRILLER
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/234
+#EXTINF:-1 tvg-id="filmgold1.al" tvg-name="FILM GOLD 1" tvg-logo="[" ,FILM GOLD 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2151
+#EXTINF:-1 tvg-id="filmgold2.al" tvg-name="FILM GOLD 2" tvg-logo="[" ,FILM GOLD 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2150
+#EXTINF:-1 tvg-id="filmgold3.al" tvg-name="FILM GOLD 3" tvg-logo="[" ,FILM GOLD 3
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2149
+#EXTINF:-1 tvg-id="filmgold4.al" tvg-name="FILM GOLD 4" tvg-logo="[" ,FILM GOLD 4
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2148
 #EXTINF:-1 tvg-id="firstkosova.al" tvg-name="FIRST KOSOVA" tvg-logo="[" ,FIRST KOSOVA
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2147
 #EXTINF:-1 tvg-id="folk.al" tvg-name="FOLK" tvg-logo="" ,FOLK
