@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="rtk1.al" tvg-name="RTK 1" tvg-logo="[" ,RTK 1
+#EXTINF:-1 tvg-id="rtk1.al" tvg-name="RTK 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rtk1_2013.png" ,RTK 1
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/7919
-#EXTINF:-1 tvg-id="rtv21.al" tvg-name="RTV 21" tvg-logo="" ,RTV 21
+#EXTINF:-1 tvg-id="rtv21.al" tvg-name="RTV 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/RTV_21_Logo.png" ,RTV 21
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1076
 #EXTINF:-1 tvg-id="ktv.al" tvg-name="KTV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/kohavision-logo.png" ,KTV
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1077
-#EXTINF:-1 tvg-id="klankosova.al" tvg-name="KLAN KOSOVA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Klan_Kosova_logo_2017.svg/revision/latest?cb=20210122155020" ,KLAN KOSOVA
+#EXTINF:-1 tvg-id="klankosova.al" tvg-name="KLAN KOSOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Klan_Kosova.png" ,KLAN KOSOVA
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1078
-#EXTINF:-1 tvg-id="atv.al" tvg-name="A TV" tvg-logo="" ,A TV
+#EXTINF:-1 tvg-id="atv.al" tvg-name="A TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/ATV_KS_KS_logo.png" ,A TV
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/7923
-#EXTINF:-1 tvg-id="tvdukagjini.al" tvg-name="DUKAGJINI" tvg-logo="[" ,DUKAGJINI
+#EXTINF:-1 tvg-id="tvdukagjini.al" tvg-name="DUKAGJINI" tvg-logo="https://balkanleague.net/pictures/pic_b/Season%202019-2020/TV%20Dukagjini%20logo.jpg" ,DUKAGJINI
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/21189
-#EXTINF:-1 tvg-id="t7.al" tvg-name="T7" tvg-logo="[" ,T7
+#EXTINF:-1 tvg-id="t7.al" tvg-name="T7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/T7-YouTube-ikona.jpg" ,T7
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/26629
-#EXTINF:-1 tvg-id="topchannel.al" tvg-name="TOP CHANNEL" tvg-logo="" ,TOP CHANNEL
+#EXTINF:-1 tvg-id="topchannel.al" tvg-name="TOP CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Top_channel_Logo.png" ,TOP CHANNEL
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1050
-#EXTINF:-1 tvg-id="klan.al" tvg-name="KLAN HD" tvg-logo="" ,KLAN HD
+#EXTINF:-1 tvg-id="klan.al" tvg-name="KLAN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1280px-TV_Klan.svg.png" ,KLAN HD
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/15661
-#EXTINF:-1 tvg-id="kanal10.al" tvg-name="KANAL 10 " tvg-logo="" ,KANAL 10 
+#EXTINF:-1 tvg-id="kanal10.al" tvg-name="KANAL 10 " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Kanal_10_KS_logo.png" ,KANAL 10 
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/53673
 #EXTINF:-1 tvg-id="living.al" tvg-name="LIVING HD" tvg-logo="[" ,LIVING HD
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29791
