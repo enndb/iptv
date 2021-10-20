@@ -19,7 +19,7 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1050
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/15661
 #EXTINF:-1 tvg-id="kanal10.al" tvg-name="KANAL 10 " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Kanal_10_KS_logo.png" ,KANAL 10 
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/53673
-#EXTINF:-1 tvg-id="living.al" tvg-name="LIVING HD" tvg-logo="[" ,LIVING HD
+#EXTINF:-1 tvg-id="living.al" tvg-name="LIVING HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/living_logo.png" ,LIVING HD
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29791
 #EXTINF:-1 tvg-id="rtk2.al" tvg-name="RTK 2" tvg-logo="" ,RTK 2
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/7920
@@ -97,15 +97,11 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29817
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/28944
 #EXTINF:-1 tvg-id="eurofilm.al" tvg-name="EURO FILM" tvg-logo="[" ,EURO FILM
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/20978
-#EXTINF:-1 tvg-id="eurosport1.al" tvg-name="EUROSPORT 1" tvg-logo="" ,EUROSPORT 1
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2116
-#EXTINF:-1 tvg-id="eurosport2.al" tvg-name="EUROSPORT 2" tvg-logo="[" ,EUROSPORT 2
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29796
-#EXTINF:-1 tvg-id="explorehistori.al" tvg-name="EXPLORE HISTORI" tvg-logo="[" ,EXPLORE HISTORI
+#EXTINF:-1 tvg-id="explorerhistori.al" tvg-name="EXPLORER HISTORI" tvg-logo="[" ,EXPLORER HISTORI
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/245
-#EXTINF:-1 tvg-id="explorenatyra.al" tvg-name="EXPLORE NATYRA" tvg-logo="[" ,EXPLORE NATYRA
+#EXTINF:-1 tvg-id="explorernatyra.al" tvg-name="EXPLORER NATYRA" tvg-logo="[" ,EXPLORER NATYRA
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/244
-#EXTINF:-1 tvg-id="exploreshkence.al" tvg-name="EXPLORE SHKENCE" tvg-logo="" ,EXPLORE SHKENCE
+#EXTINF:-1 tvg-id="explorershkence.al" tvg-name="EXPLORER SHKENCE" tvg-logo="" ,EXPLORER SHKENCE
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/243
 #EXTINF:-1 tvg-id="family.al" tvg-name="FAMILY" tvg-logo="[" ,FAMILY
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29818
@@ -297,30 +293,34 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/19812
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/80227
 #EXTINF:-1 tvg-id="supersport2.al" tvg-name="SUPER SPORT 2 " tvg-logo="" ,SUPER SPORT 2 
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/80228
-#EXTINF:-1 tvg-id="supersport2.al" tvg-name="SUPER SPORT 2" tvg-logo="" ,SUPER SPORT 2
+#EXTINF:-1 tvg-id="supersport2.al" tvg-name="SUPERSPORT 2" tvg-logo="" ,SUPERSPORT 2
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/223
-#EXTINF:-1 tvg-id="supersport3.al" tvg-name="SUPER SPORT 3 " tvg-logo="" ,SUPER SPORT 3 
+#EXTINF:-1 tvg-id="supersport3.al" tvg-name="SUPERSPORT 3 " tvg-logo="" ,SUPERSPORT 3 
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/80229
-#EXTINF:-1 tvg-id="supersport3.al" tvg-name="SUPER SPORT 3" tvg-logo="[" ,SUPER SPORT 3
+#EXTINF:-1 tvg-id="supersport3.al" tvg-name="SUPERSPORT 3" tvg-logo="[" ,SUPERSPORT 3
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/222
-#EXTINF:-1 tvg-id="supersport4.al" tvg-name="SUPER SPORT 4 " tvg-logo="" ,SUPER SPORT 4 
+#EXTINF:-1 tvg-id="supersport4.al" tvg-name="SUPERSPORT 4 " tvg-logo="" ,SUPERSPORT 4 
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/80230
-#EXTINF:-1 tvg-id="supersport4.al" tvg-name="SUPER SPORT 4" tvg-logo="" ,SUPER SPORT 4
+#EXTINF:-1 tvg-id="supersport4.al" tvg-name="SUPERSPORT 4" tvg-logo="" ,SUPERSPORT 4
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/221
-#EXTINF:-1 tvg-id="supersport5.al" tvg-name="SUPER SPORT 5 " tvg-logo="" ,SUPER SPORT 5 
+#EXTINF:-1 tvg-id="supersport5.al" tvg-name="SUPERSPORT 5 " tvg-logo="" ,SUPERSPORT 5 
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/80232
-#EXTINF:-1 tvg-id="supersport5.al" tvg-name="SUPER SPORT 5" tvg-logo="" ,SUPER SPORT 5
+#EXTINF:-1 tvg-id="supersport5.al" tvg-name="SUPERSPORT 5" tvg-logo="" ,SUPERSPORT 5
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/19809
-#EXTINF:-1 tvg-id="supersport6.al" tvg-name="SUPER SPORT 6 " tvg-logo="" ,SUPER SPORT 6 
+#EXTINF:-1 tvg-id="supersport6.al" tvg-name="SUPERSPORT 6 " tvg-logo="" ,SUPERSPORT 6 
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/80233
-#EXTINF:-1 tvg-id="supersport6.al" tvg-name="SUPER SPORT 6" tvg-logo="" ,SUPER SPORT 6
+#EXTINF:-1 tvg-id="supersport6.al" tvg-name="SUPERSPORT 6" tvg-logo="" ,SUPERSPORT 6
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/19810
-#EXTINF:-1 tvg-id="supersport7.al" tvg-name="SUPER SPORT 7" tvg-logo="[" ,SUPER SPORT 7
+#EXTINF:-1 tvg-id="supersport7.al" tvg-name="SUPERSPORT 7" tvg-logo="[" ,SUPERSPORT 7
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29797
-#EXTINF:-1 tvg-id="sportkosova1.al" tvg-name="SPORT KOSOVA 1" tvg-logo="[" ,SPORT KOSOVA 1
+#EXTINF:-1 tvg-id="sportkosova1.al" tvg-name="SUPERSPORT KOSOVA 1" tvg-logo="[" ,SUPERSPORT KOSOVA 1
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/226
-#EXTINF:-1 tvg-id="sportkosova2.al" tvg-name="SPORT KOSOVA 2" tvg-logo="" ,SPORT KOSOVA 2
+#EXTINF:-1 tvg-id="sportkosova2.al" tvg-name="SUPERSPORT KOSOVA 2" tvg-logo="" ,SUPERSPORT KOSOVA 2
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/225
+#EXTINF:-1 tvg-id="eurosport1.al" tvg-name="EUROSPORT 1" tvg-logo="" ,EUROSPORT 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2116
+#EXTINF:-1 tvg-id="eurosport2.al" tvg-name="EUROSPORT 2" tvg-logo="[" ,EUROSPORT 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29796
 #EXTINF:-1 tvg-id="star+shkodra.al" tvg-name="STAR+ SHKODRA" tvg-logo="[" ,STAR+ SHKODRA
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2124
 #EXTINF:-1 tvg-id="stupcat.al" tvg-name="STUPCAT" tvg-logo="[" ,STUPCAT
