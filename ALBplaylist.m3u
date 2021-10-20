@@ -123,8 +123,6 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29823
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29826
 #EXTINF:-1 tvg-id="filmdrama.al" tvg-name="FILM DRAMA" tvg-logo="" ,FILM DRAMA
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/240
-#EXTINF:-1 tvg-id="filmdy.al" tvg-name="FILM DY" tvg-logo="[" ,FILM DY
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/239
 #EXTINF:-1 tvg-id="filmgold1.al" tvg-name="FILM GOLD 1" tvg-logo="[" ,FILM GOLD 1
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2151
 #EXTINF:-1 tvg-id="filmgold2.al" tvg-name="FILM GOLD 2" tvg-logo="[" ,FILM GOLD 2
@@ -141,6 +139,8 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/238
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/237
 #EXTINF:-1 tvg-id="filmnje.al" tvg-name="FILM NJE" tvg-logo="" ,FILM NJE
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/236
+#EXTINF:-1 tvg-id="filmdy.al" tvg-name="FILM DY" tvg-logo="[" ,FILM DY
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/239
 #EXTINF:-1 tvg-id="filmthriller.al" tvg-name="FILM THRILLER" tvg-logo="" ,FILM THRILLER
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/234
 #EXTINF:-1 tvg-id="firstkosova.al" tvg-name="FIRST KOSOVA" tvg-logo="[" ,FIRST KOSOVA
@@ -175,8 +175,6 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/42923
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/42925
 #EXTINF:-1 tvg-id="islamchannelquran.al" tvg-name="ISLAM CHANNEL QURAN" tvg-logo="" ,ISLAM CHANNEL QURAN
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/42924
-#EXTINF:-1 tvg-id="joly.al" tvg-name="JOLY" tvg-logo="" ,JOLY
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2129
 #EXTINF:-1 tvg-id="jugtv.al" tvg-name="JUG TV" tvg-logo="[" ,JUG TV
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2143
 #EXTINF:-1 tvg-id="juniortv.al" tvg-name="JUNIOR TV" tvg-logo="[" ,JUNIOR TV
@@ -363,6 +361,8 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29858
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29868
 #EXTINF:-1 tvg-id="topnews.al" tvg-name="TOP NEWS" tvg-logo="[" ,TOP NEWS
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/26561
+#EXTINF:-1 tvg-id="jolly.al" tvg-name="JOLLY" tvg-logo="" ,JOLLY
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2129
 #EXTINF:-1 tvg-id="tring3+.al" tvg-name="TRING 3+" tvg-logo="" ,TRING 3+
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1052
 #EXTINF:-1 tvg-id="tringcomedy.al" tvg-name="TRING COMEDY" tvg-logo="" ,TRING COMEDY
