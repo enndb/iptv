@@ -181,16 +181,6 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2129
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2143
 #EXTINF:-1 tvg-id="juniortv.al" tvg-name="JUNIOR TV" tvg-logo="[" ,JUNIOR TV
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1079
-#EXTINF:-1 tvg-id="ksport1.al" tvg-name="K SPORT 1" tvg-logo="[" ,K SPORT 1
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2115
-#EXTINF:-1 tvg-id="ksport2.al" tvg-name="K SPORT 2" tvg-logo="[" ,K SPORT 2
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2114
-#EXTINF:-1 tvg-id="ksport3.al" tvg-name="K SPORT 3" tvg-logo="" ,K SPORT 3
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2113
-#EXTINF:-1 tvg-id="ksport4.al" tvg-name="K SPORT 4" tvg-logo="" ,K SPORT 4
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2112
-#EXTINF:-1 tvg-id="ksport5.al" tvg-name="K SPORT 5" tvg-logo="[" ,K SPORT 5
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29798
 #EXTINF:-1 tvg-id="kanalddrama.al" tvg-name="KANAL D DRAMA " tvg-logo="" ,KANAL D DRAMA 
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1143
 #EXTINF:-1 tvg-id="kanali7news.al" tvg-name="KANALI 7 NEWS" tvg-logo="[" ,KANALI 7 NEWS
@@ -205,7 +195,7 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29808
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29807
 #EXTINF:-1 tvg-id="ksmuzik.al" tvg-name="KS MUZIK" tvg-logo="" ,KS MUZIK
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29806
-#EXTINF:-1 tvg-id="ktvtoksor.al" tvg-name="KTV TOKSOR" tvg-logo="[" ,KTV TOKSOR
+#EXTINF:-1 tvg-id="ktvtokesor.al" tvg-name="KTV TOKESOR" tvg-logo="[" ,KTV TOKESOR
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29898
 #EXTINF:-1 tvg-id="mtvkosova.al" tvg-name="MTV KOSOVA" tvg-logo="[" ,MTV KOSOVA
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29864
@@ -285,13 +275,13 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/3577
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1075
 #EXTINF:-1 tvg-id="sofia.al" tvg-name="SOFIA" tvg-logo="[" ,SOFIA
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29848
-#EXTINF:-1 tvg-id="supersportnews.al" tvg-name="SUPER SPORT NEWS" tvg-logo="" ,SUPER SPORT NEWS
+#EXTINF:-1 tvg-id="supersportnews.al" tvg-name="SUPERSPORT NEWS" tvg-logo="" ,SUPER SPORT NEWS
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/224
-#EXTINF:-1 tvg-id="sportkosovanews.al" tvg-name="SPORT KOSOVA NEWS" tvg-logo="[" ,SPORT KOSOVA NEWS
+#EXTINF:-1 tvg-id="sportkosovanews.al" tvg-name="SUPERSPORT KOSOVA NEWS" tvg-logo="[" ,SPORT KOSOVA NEWS
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/19812
-#EXTINF:-1 tvg-id="supersport1.al" tvg-name="SUPER SPORT 1 " tvg-logo="" ,SUPER SPORT 1 
+#EXTINF:-1 tvg-id="supersport1.al" tvg-name="SUPERSPORT 1 " tvg-logo="" ,SUPER SPORT 1 
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/80227
-#EXTINF:-1 tvg-id="supersport2.al" tvg-name="SUPER SPORT 2 " tvg-logo="" ,SUPER SPORT 2 
+#EXTINF:-1 tvg-id="supersport2.al" tvg-name="SUPERSPORT 2 " tvg-logo="" ,SUPER SPORT 2 
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/80228
 #EXTINF:-1 tvg-id="supersport2.al" tvg-name="SUPERSPORT 2" tvg-logo="" ,SUPERSPORT 2
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/223
@@ -317,10 +307,38 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29797
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/226
 #EXTINF:-1 tvg-id="sportkosova2.al" tvg-name="SUPERSPORT KOSOVA 2" tvg-logo="" ,SUPERSPORT KOSOVA 2
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/225
+#EXTINF:-1 tvg-id="artsport1.al" tvg-name="ART SPORT 1 " tvg-logo="[" ,ART SPORT 1 
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29801
+#EXTINF:-1 tvg-id="artsport2.al" tvg-name="ART SPORT 2 " tvg-logo="[" ,ART SPORT 2 
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29800
+#EXTINF:-1 tvg-id="artsport3.al" tvg-name="ART SPORT 3 " tvg-logo="[" ,ART SPORT 3 
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29799
 #EXTINF:-1 tvg-id="eurosport1.al" tvg-name="EUROSPORT 1" tvg-logo="" ,EUROSPORT 1
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2116
 #EXTINF:-1 tvg-id="eurosport2.al" tvg-name="EUROSPORT 2" tvg-logo="[" ,EUROSPORT 2
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29796
+#EXTINF:-1 tvg-id="tringsportnews.al" tvg-name="TRING SPORT NEWS" tvg-logo="" ,TRING SPORT NEWS
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/212
+#EXTINF:-1 tvg-id="tringsport1.al" tvg-name="TRING SPORT 1" tvg-logo="" ,TRING SPORT 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2156
+#EXTINF:-1 tvg-id="tringsport1.al" tvg-name="TRING SPORT 1" tvg-logo="" ,TRING SPORT 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/213
+#EXTINF:-1 tvg-id="tringsport2.al" tvg-name="TRING SPORT 2" tvg-logo="" ,TRING SPORT 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2155
+#EXTINF:-1 tvg-id="tringsport3.al" tvg-name="TRING SPORT 3" tvg-logo="" ,TRING SPORT 3
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2154
+#EXTINF:-1 tvg-id="tringsport4.al" tvg-name="TRING SPORT 4" tvg-logo="" ,TRING SPORT 4
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2153
+#EXTINF:-1 tvg-id="ksport1.al" tvg-name="K SPORT 1" tvg-logo="[" ,K SPORT 1
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2115
+#EXTINF:-1 tvg-id="ksport2.al" tvg-name="K SPORT 2" tvg-logo="[" ,K SPORT 2
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2114
+#EXTINF:-1 tvg-id="ksport3.al" tvg-name="K SPORT 3" tvg-logo="" ,K SPORT 3
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2113
+#EXTINF:-1 tvg-id="ksport4.al" tvg-name="K SPORT 4" tvg-logo="" ,K SPORT 4
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2112
+#EXTINF:-1 tvg-id="ksport5.al" tvg-name="K SPORT 5" tvg-logo="[" ,K SPORT 5
+http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29798
 #EXTINF:-1 tvg-id="star+shkodra.al" tvg-name="STAR+ SHKODRA" tvg-logo="[" ,STAR+ SHKODRA
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2124
 #EXTINF:-1 tvg-id="stupcat.al" tvg-name="STUPCAT" tvg-logo="[" ,STUPCAT
@@ -369,18 +387,6 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2117
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/215
 #EXTINF:-1 tvg-id="tringshqip.al" tvg-name="TRING SHQIP" tvg-logo="" ,TRING SHQIP
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/214
-#EXTINF:-1 tvg-id="tringsport1.al" tvg-name="TRING SPORT 1" tvg-logo="" ,TRING SPORT 1
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2156
-#EXTINF:-1 tvg-id="tringsport1.al" tvg-name="TRING SPORT 1" tvg-logo="" ,TRING SPORT 1
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/213
-#EXTINF:-1 tvg-id="tringsport2.al" tvg-name="TRING SPORT 2" tvg-logo="" ,TRING SPORT 2
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2155
-#EXTINF:-1 tvg-id="tringsport3.al" tvg-name="TRING SPORT 3" tvg-logo="" ,TRING SPORT 3
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2154
-#EXTINF:-1 tvg-id="tringsport4.al" tvg-name="TRING SPORT 4" tvg-logo="" ,TRING SPORT 4
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/2153
-#EXTINF:-1 tvg-id="tringsportnews.al" tvg-name="TRING SPORT NEWS" tvg-logo="" ,TRING SPORT NEWS
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/212
 #EXTINF:-1 tvg-id="tringsuper.al" tvg-name="TRING SUPER" tvg-logo="" ,TRING SUPER
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/211
 #EXTINF:-1 tvg-id="tringtring.al" tvg-name="TRING TRING" tvg-logo="" ,TRING TRING
@@ -423,12 +429,6 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29836
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29835
 #EXTINF:-1 tvg-id="artkino3.al" tvg-name="ART KINO 3" tvg-logo="[" ,ART KINO 3
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29834
-#EXTINF:-1 tvg-id="artsport1.al" tvg-name="ART SPORT 1 " tvg-logo="[" ,ART SPORT 1 
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29801
-#EXTINF:-1 tvg-id="artsport2.al" tvg-name="ART SPORT 2 " tvg-logo="[" ,ART SPORT 2 
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29800
-#EXTINF:-1 tvg-id="artsport3.al" tvg-name="ART SPORT 3 " tvg-logo="[" ,ART SPORT 3 
-http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29799
 #EXTINF:-1 tvg-id="teleone1.al" tvg-name="TELE ONE 1" tvg-logo="" ,TELE ONE 1
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/42913
 #EXTINF:-1 tvg-id="teleone2.al" tvg-name="TELE ONE 2" tvg-logo="" ,TELE ONE 2
