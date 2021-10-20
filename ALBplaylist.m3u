@@ -3,7 +3,7 @@
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/7919
 #EXTINF:-1 tvg-id="rtv21.al" tvg-name="RTV 21" tvg-logo="" ,RTV 21
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1076
-#EXTINF:-1 tvg-id="ktv.al" tvg-name="KTV" tvg-logo="" ,KTV
+#EXTINF:-1 tvg-id="ktv.al" tvg-name="KTV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/kohavision-logo.png" ,KTV
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1077
 #EXTINF:-1 tvg-id="klankosova.al" tvg-name="KLAN KOSOVA" tvg-logo="" ,KLAN KOSOVA
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/1078
@@ -241,7 +241,7 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29890
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29850
 #EXTINF:-1 tvg-id="rtshgjirokastra.al" tvg-name="RTSH GJIROKASTRA" tvg-logo="[" ,RTSH GJIROKASTRA
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29889
-#EXTINF:-1 tvg-id="rtshkor�a.al" tvg-name="RTSH KORÇA" tvg-logo="[" ,RTSH KORÇA
+#EXTINF:-1 tvg-id="rtshkorãa.al" tvg-name="RTSH KORÃA" tvg-logo="[" ,RTSH KORÃA
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29888
 #EXTINF:-1 tvg-id="rtshkuvend.al" tvg-name="RTSH KUVEND" tvg-logo="[" ,RTSH KUVEND
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/29887
@@ -569,7 +569,7 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66087
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66088
 #EXTINF:-1 tvg-id="8ovamuzik.al" tvg-name="8OVA MUZIK" tvg-logo="" ,8OVA MUZIK
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66089
-#EXTINF:-1 tvg-id="8ova�ifteli.al" tvg-name="8OVA ÇIFTELI" tvg-logo="" ,8OVA ÇIFTELI
+#EXTINF:-1 tvg-id="8ovaãifteli.al" tvg-name="8OVA ÃIFTELI" tvg-logo="" ,8OVA ÃIFTELI
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66092
 #EXTINF:-1 tvg-id="8ovapopullore.al" tvg-name="8OVA POPULLORE" tvg-logo="" ,8OVA POPULLORE
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66090
@@ -601,7 +601,7 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66100
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66101
 #EXTINF:-1 tvg-id="divergentwall.al" tvg-name="DIVERGENT WALL" tvg-logo="" ,DIVERGENT WALL
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66102
-#EXTINF:-1 tvg-id="firstdram�.al" tvg-name="FIRST DRAMë" tvg-logo="" ,FIRST DRAMë
+#EXTINF:-1 tvg-id="firstdramã«.al" tvg-name="FIRST DRAMÃ«" tvg-logo="" ,FIRST DRAMÃ«
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66104
 #EXTINF:-1 tvg-id="firstclassic.al" tvg-name="FIRST CLASSIC" tvg-logo="" ,FIRST CLASSIC
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66103
@@ -657,7 +657,7 @@ http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66128
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66129
 #EXTINF:-1 tvg-id="plisitv.al" tvg-name="PLISI TV" tvg-logo="" ,PLISI TV
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66145
-#EXTINF:-1 tvg-id="plisi�ifteli.al" tvg-name="PLISI ÇIFTELI" tvg-logo="" ,PLISI ÇIFTELI
+#EXTINF:-1 tvg-id="plisiãifteli.al" tvg-name="PLISI ÃIFTELI" tvg-logo="" ,PLISI ÃIFTELI
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66146
 #EXTINF:-1 tvg-id="plisifantazi.al" tvg-name="PLISI FANTAZI" tvg-logo="" ,PLISI FANTAZI
 http://avaiptv.club:8080/5nMeB6dhcR/tbethqPS3A/66144
